@@ -12,7 +12,7 @@
         Reserved |
         Reserved |
         <a href="https://t.me/WHATSASENA">Telegram Channel</a> |
-        <a href="https://t.me/AsenaSupport">Telegram Group</a> |
+        <b href="https://t.me/AsenaSupport">Telegram Group</b> |
     <br>
 </p>
 
